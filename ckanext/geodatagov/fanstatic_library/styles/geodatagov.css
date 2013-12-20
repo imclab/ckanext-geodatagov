@@ -99,7 +99,7 @@ a {
   clear: both;
 }
 .pre-header {
-  background: #0a3163 url("http://www.data.gov/sites/all/themes/datagov/images/preheader-bg.jpg") repeat-x center top;
+  background: #0a3163 url("http://next.data.gov/sites/all/themes/datagov/images/preheader-bg.jpg") repeat-x center top;
   color: white;
   font-style: italic;
   font-size: 11px;
@@ -124,7 +124,7 @@ a {
 .masthead .container .top {
   *zoom: 1;
   position: relative;
-/*  background: url("http://www.data.gov/sites/all/themes/datagov/images/header-start-bg.jpg");
+/*  background: url("http://next.data.gov/sites/all/themes/datagov/images/header-start-bg.jpg");
   -webkit-border-radius: 4px 4px 0 0;
   -moz-border-radius: 4px 4px 0 0;
   -o-border-radius: 4px 4px 0 0;
@@ -246,7 +246,7 @@ a {
     font-size: 11px;
     width: 184px;
     padding-left: 11px;
-    background: url("http://www.data.gov/sites/all/themes/datagov/images/search-box-new.jpg");
+    background: url("http://next.data.gov/sites/all/themes/datagov/images/search-box-new.jpg");
 }
 .masthead .container .site-wide-search button {
     font: 0/0 a;
@@ -254,7 +254,7 @@ a {
     text-shadow: none;
     background-color: transparent;
     border: 0;
-    background: url("http://www.data.gov/sites/all/themes/datagov/images/search_new.png");
+    background: url("http://next.data.gov/sites/all/themes/datagov/images/search_new.png");
     background-repeat:no-repeat;
     width: 25px;
     height: 28px;
@@ -901,12 +901,12 @@ input:-moz-placeholder {
     margin: 27px 10px;
 }
 input.search-new{
-    background: url("http://www.data.gov/sites/all/themes/datagov/images/search-box-new.jpg") repeat scroll 0 0 transparent;
+    background: url("http://next.data.gov/sites/all/themes/datagov/images/search-box-new.jpg") repeat scroll 0 0 transparent;
     border:0 none;
     width:189px;
 }
 .search-box-new button{
-    background: url("http://www.data.gov/sites/all/themes/datagov/images/search_new.png") no-repeat scroll 0 0 transparent;
+    background: url("http://next.data.gov/sites/all/themes/datagov/images/search_new.png") no-repeat scroll 0 0 transparent;
     border: 0 none;
     color: transparent;
     font: 0px/0 a;
